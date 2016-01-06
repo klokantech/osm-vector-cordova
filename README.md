@@ -1,4 +1,4 @@
-# OSM Vector Tiles Offline - Phongegap / Cordova app using MapBox GL JS
+# OSM Vector Tiles Offline - Phongegap / Cordova app using MapBox GL Native
 Offline OpenStreetMap vector tiles with native MapBox GL and Apache Cordova / PhoneGap Build
 
 Powered by: http://plugins.telerik.com/cordova/plugin/mapbox
